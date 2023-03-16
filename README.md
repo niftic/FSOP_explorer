@@ -1,5 +1,5 @@
 # FSOP explorer
-A tool to find and inspect File System Oriented Programming (FSOP) code paths. Heavily inspired by KyleBot's [angry-FSROP](https://github.com/Kyle-Kyle/angry-FSROP) repository.
+A tool to find and inspect File Stream Oriented Programming (FSOP) code paths. Heavily inspired by KyleBot's [angry-FSROP](https://github.com/Kyle-Kyle/angry-FSROP) repository.
 
 # Why?
 To find the conditions leading to an FSOP code path more easily and to learn more about [angr](https://docs.angr.io/). Read my [blog post](https://niftic.ca/posts/fsop/) on FSOP for more details.
